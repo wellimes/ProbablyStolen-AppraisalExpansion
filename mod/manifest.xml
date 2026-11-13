@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>appraisal_expansion</ID>
+  <Name>深空鉴定拓展 Appraisal Expansion</Name>
+  <Author>Player</Author>
+  <ModVersion>0.3.0</ModVersion>
+  <Description>夜晚拾荒可捡到机械手/肋排三明治/等离子燃料（赝品/次品为主，正品稀有，可用放大镜对质揭穿后打折）；六位供货商（三明治/机械手/等离子各厂商）在玩家加入鉴定委员会且鉴定证书放入展示栏过夜后上门，可凭名片上的电话联系次日上门；杰克逊博士夜晚店铺售卖无标识等离子燃料、高级违禁品原料与制作机器；新增购买这些物品的下层居民与上层收藏家。</Description>
+  <GameVersions>
+    <Version>0.46D</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>AppraisalExpansion.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Manifest>

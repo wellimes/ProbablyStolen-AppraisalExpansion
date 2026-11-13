@@ -1,0 +1,20 @@
+{
+  "tables": [
+    {
+      "id": "scav_appraisal_table",
+      "entries": [
+        { "id": "scav_hand", "weight": 40 },
+        { "id": "scav_ribwich", "weight": 30 },
+        { "id": "scav_plasma", "weight": 20 }
+      ]
+    }
+  ],
+  "patches": [
+    {
+      "group": "dumpingGroundTG",
+      "add": [
+        { "id": "scav_appraisal_table", "weight": 30 }
+      ]
+    }
+  ]
+}
