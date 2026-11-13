@@ -199,15 +199,16 @@ Mod 把自定义掉落表 `scav_appraisal_table` 挂进原版拾荒掉落组 `du
 
 ## 安装
 
-### 方式一：手动安装（本地 Mod）
+### 方式一：下载 Release（推荐，解压即用）
 
-1. 下载 [dist/appraisal_expansion_v0.3.0.zip](dist/appraisal_expansion_v0.3.0.zip) 并解压；
-2. 把解压出的 `appraisal_expansion` 文件夹放到：
+1. 打开 [**Releases**](https://github.com/wellimes/ProbablyStolen-AppraisalExpansion/releases) 页面；
+2. 下载最新版 `appraisal_expansion-v0.3.0.zip`；
+3. 解压得到 `appraisal_expansion` 文件夹，放到：
    ```
    <游戏安装目录>\Mods\appraisal_expansion\
    ```
    目录内应包含 `manifest.xml`、`AppraisalExpansion.dll`、`LootTables\scav_appraisal.json`；
-3. 启动游戏 → 主菜单「模组」→ 启用「深空鉴定拓展」。
+4. 启动游戏 → 主菜单「模组」→ 启用「深空鉴定拓展」。
 
 > 建议开新档测试；旧档会触发一次性电话迁移。
 
