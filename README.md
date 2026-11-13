@@ -214,7 +214,11 @@ Mod 把自定义掉落表 `scav_appraisal_table` 挂进原版拾荒掉落组 `du
 
 ### 方式二：Steam 创意工坊
 
-> 尚未上传，敬请期待。
+已发布到 Steam 创意工坊，**订阅即自动安装**：
+
+**https://steamcommunity.com/sharedfiles/filedetails/?id=3838901941**
+
+游戏内「模组」→「创意工坊」搜索「深空鉴定拓展」即可找到。
 
 ---
 
