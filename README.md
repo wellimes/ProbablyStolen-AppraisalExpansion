@@ -7,6 +7,10 @@
 
 **当前版本：v0.3.0** · 游戏版本：`0.46D` · 许可证：MIT
 
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](CONTRIBUTING.md)
+[![Discussions](https://img.shields.io/badge/chat-Discussions-blue)](../../discussions)
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-subscribe-1b2838)](https://steamcommunity.com/sharedfiles/filedetails/?id=3838901941)
+
 ---
 
 ## 目录
@@ -305,6 +309,37 @@ A：可以，但首次载入会重置供货商电话为未解锁状态（一次�
 | v0.3.0 | 电话名修复、1×2 名片、委员会排期重做、奢侈品标签第一层判断、等离子材料标签、放大镜对质小游戏 |
 | v0.2.0 | 六位供货商、每周排期（后被 v0.3.0 取代）、电话召唤、杰克逊夜店、物品标签 |
 | v0.1.0 | 拾荒掉落三种鉴定物品、单一供货商、额度系统、居民买家 |
+
+---
+
+## 参与贡献
+
+欢迎一起把这个 Mod 做得更好！无论是报 BUG、提建议、写代码、翻译还是做美术都欢迎。
+
+- 📖 先读 [贡献指南](CONTRIBUTING.md)
+- 🏗 代码结构与扩展步骤见 [架构与扩展指南](docs/ARCHITECTURE.md)
+- 💬 想法、提问、招募协作者请到 [Discussions](../../discussions)
+- 🐛 问题请开 [Issue](../../issues)
+
+### 适合新手的切入点
+
+- 补英文 / 日文 / 俄文本地化
+- 杰克逊博士第 40 天机器的专属模型与贴图
+- 对质面板的问题项图标
+- 更多物品 / 供货商（架构文档第 5 节有完整步骤）
+
+## 路线图 Roadmap
+
+| 优先级 | 项目 | 状态 |
+|---|---|---|
+| 高 | 多语言本地化（英/日/俄） | 待认领 |
+| 高 | 杰克逊专属制作机器的自定义贴图/模型 | 待认领 |
+| 中 | 更多鉴定物品种类 | 待认领 |
+| 中 | 对质成功率/声望影响可配置化 | 待认领 |
+| 低 | 物品堆叠/批量出售优化 | 待认领 |
+| 低 | 创意工坊缩略图美化 | 待认领 |
+
+> 认领任意一项：在 Discussions 或 Issue 里说一声即可。
 
 ---
 
